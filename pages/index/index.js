@@ -14,7 +14,7 @@ Page({
     duration: 1000,
     navItems:[
       {
-        name:'堂食',
+        name:'躺尸',
         url:'dishes'
       },
       {
